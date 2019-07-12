@@ -14,7 +14,7 @@ Here you can see the tool in action during the testing of a single chunk
 slimefarm. You can see that after lighting up most of the caves, the mobcap is
 no more the limiting factor of my farm.
 
-![debugpack mobcap demo](https://misc.timakro.de/debugpack-mobcap.png)
+![debugpack mobcap demo](https://files.timakro.de/debugpack-mobcap.png)
 
 #### Usage
 
